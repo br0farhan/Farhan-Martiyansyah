@@ -1,12 +1,16 @@
-# Farhan-Martiyansyah
-Hi there, my name Farhan Martiyansyah 👋
-I'm a software engineer at Woo-Hoo in Bogor, Special Region of Jawa Barat, Indonesia 🌆
+### Hi there, my name Farhan 👋
 
-🔭 I’m currently learn riverpod and use it to build a software
-☕ my hobby is cycling and drinking coffee
-🧑‍💻 I’m looking to collaborate on open source projects
-💬 Ask me about Flutter and Dart.
-⚡ Fun fact: sharing is magic 🐰
-Chat me on Telegram
-Email me at G-mail
-Youtu.be : https://www.youtube.com/c/SaifulBahri27
+I'm a software engineer at [Woo-Hoo](https://woo-hoo.org) in Bogor, Special Region of Jawa Barat, Indonesia 🌆
+
+- 🔭 I’m currently learn riverpod and use it to build a software
+- ☕ my hobby is cycling and drinking coffee
+- 🧑‍💻 I’m looking to collaborate on open source projects
+- 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
+- ⚡ Fun fact: sharing is magic 🐰
+- Chat me on [Telegram](https://t.me/bahri_bhe)
+- Email me at [G-mail](mailto:saiful.bahri.tl@gmail.com)
+
+
+### Github Stats
+
+[!Farhan Martiyansyah Github Stats](https://github-readme-stats.vercel.app/api?username=bahrie127&count_private=true&theme=default&show_icons=true)](https://github.com/bahrie127)
