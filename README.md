@@ -1,6 +1,3 @@
-![logo-farhan-bg-hitam png-transparent]((https://www.linkedin.com/in/br0farhan/))
-
-
 ### Hi there, my name Farhan 👋
 
 I'm a software engineer at in Bogor, Indonesia 🌆
