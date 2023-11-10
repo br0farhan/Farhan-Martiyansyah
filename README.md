@@ -1,5 +1,5 @@
-![logo-farhan-bg-hitam png-transparent](https://github.com/br0farhan/br0farhan/assets/43510196/e6eb4db5-4aaf-40b6-8918-4c7efd472c41)
-(https://www.linkedin.com/in/br0farhan/)
+![logo-farhan-bg-hitam png-transparent]((https://www.linkedin.com/in/br0farhan/))
+
 
 ### Hi there, my name Farhan 👋
 
