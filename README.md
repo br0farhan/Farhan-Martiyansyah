@@ -1,4 +1,4 @@
-[![F|](https://i.postimg.cc/6qFPD0bv/logo.png)](https://www.linkedin.com/in/br0farhan/)
+[![F|](https://ibb.co/9gvw7yP)](https://www.linkedin.com/in/br0farhan/)
 
 ### Hi there, my name Farhan 👋
 
