@@ -1,4 +1,4 @@
-[![F|](https://freeimage.host/i/JBOlqjs)](https://www.linkedin.com/in/br0farhan/)
+![alt text](https://freeimage.host/i/JBOlqjs?raw=true)(https://www.linkedin.com/in/br0farhan/)
 
 ### Hi there, my name Farhan 👋
 
